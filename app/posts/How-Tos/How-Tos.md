@@ -2,7 +2,11 @@
 tags: false
 layout: collection
 title: How to
+<<<<<<< HEAD
 description: Generic description
+=======
+description: Visual instuctions for different tasks
+>>>>>>> main
 pagination:
     data: collections.How-Tos
     reverse: true
