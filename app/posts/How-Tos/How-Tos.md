@@ -1,7 +1,7 @@
 ---
 tags: false
 layout: collection
-title: How To
+title: How to
 description: Generic description
 pagination:
     data: collections.How-Tos
