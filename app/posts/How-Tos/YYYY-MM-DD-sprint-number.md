@@ -1,5 +1,5 @@
 ---
-title: Add Video
+title: Add a Video
 description: How to add a video into your posts
 date:
 ---
